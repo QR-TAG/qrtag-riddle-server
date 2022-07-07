@@ -1,6 +1,6 @@
 const http = require('http');
 
-const riddle = 'Riddle???';
+const riddle = 'Riddle';
 
 http.createServer(function (req, res) {
   res.writeHead(200, {'Content-Type': 'text/json'});
