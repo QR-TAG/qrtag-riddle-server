@@ -1,0 +1,19 @@
+{
+  "name": "qrtag-riddle-server",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "start": "node main"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/QR-TAG/qrtag-riddle-server.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/QR-TAG/qrtag-riddle-server/issues"
+  },
+  "homepage": "https://github.com/QR-TAG/qrtag-riddle-server#readme"
+}
